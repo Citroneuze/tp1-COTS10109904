@@ -1,14 +1,11 @@
 # tp1-COTS10109904
-# Simon-James Cote Projet ue5
+# Simon-James Côté - Projet UE5
 
 ## Description
-Ce projet utilise **WebStorm** pour développer une application web avec [insérer le framework ou technologie ici] (ex: React, Node.js, etc.). Il comprend [fonctionnalités principales] et est conçu pour [objectif ou usage principal].
+Ce jeu est un jeu de combat simple où les ennemis apparaissent à l'infini. Si vous êtes tué, cela déclenche l'écran de Game Over.
 
 ## Prérequis
-
-pour démarer ouvrez le projet sur unreal et aller au répertoire suivant dans le content manager "Content\FirstPerson\Maps\MainMenuMAp.umap"
-et loader le level ce qui démarrera le jeux au menu principal si vous voulez aller directement dans le niveau il faut aller directement
-"Content\FirstPerson\Maps\FirstPersonMap.umap" et lancer le level
+Pour démarrer, ouvrez le projet dans Unreal Engine et accédez au répertoire suivant dans le content manager : Content\FirstPerson\Maps\MainMenuMap.umap. Chargez ce niveau pour démarrer le jeu à partir du menu principal. Si vous souhaitez accéder directement au niveau principal, allez dans : Content\FirstPerson\Maps\FirstPersonMap.umap et lancez ce niveau.
 
 ## Bug 
-quand on démarre le jeux à partir du level "MainMenuMAp.umap" l'IA des ennemi est légérement buguer
+Lorsque l'on démarre le jeu à partir du niveau "MainMenuMap.umap", l'IA des ennemis est légèrement bugguée.
